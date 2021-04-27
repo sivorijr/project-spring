@@ -24,11 +24,11 @@ Here are the technologies used in this project.
 ## API Methods
  
 "/users": {<br>
-<p>POST - "/": Register a user,<p/><br>
-<p>GET - "/{id}": Returns a specific user,<p/><br>
-<p>GET - "/list": Returns a list of users,<p/><br>
-<p>GET - "/list/{id}": Returns a list of users longer than the id,<p/><br>
-<p>GET - "/findByName/{name}": Returns a specific user by name,<p/><br>
+&emsp;POST - "/": Register a user,<br>
+&emsp;GET - "/{id}": Returns a specific user,<br>
+&emsp;GET - "/list": Returns a list of users,<br>
+&emsp;GET - "/list/{id}": Returns a list of users longer than the id,<br>
+&emsp;GET - "/findByName/{name}": Returns a specific user by name,<br>
 }
  
  
