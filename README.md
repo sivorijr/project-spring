@@ -24,17 +24,17 @@ Here are the technologies used in this project.
 ## API Methods
  
 "/users": {<br>
-  POST - "/": Register a user,<br>
-  GET - "/{id}": Returns a specific user,<br>
-  GET - "/list": Returns a list of users,<br>
-  GET - "/list/{id}": Returns a list of users longer than the id,<br>
-  GET - "/findByName/{name}": Returns a specific user by name,<br>
+<p>POST - "/": Register a user,<p/><br>
+<p>GET - "/{id}": Returns a specific user,<p/><br>
+<p>GET - "/list": Returns a list of users,<p/><br>
+<p>GET - "/list/{id}": Returns a list of users longer than the id,<p/><br>
+<p>GET - "/findByName/{name}": Returns a specific user by name,<p/><br>
 }
  
  
 ## Authors
  
-* **Sivori Junior**: @sivorijr [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sivorijr)](https://github.com/sivorijr)
+* **Sivori Junior**: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sivorijr)](https://github.com/sivorijr)
  
  
 Please follow github and join us!
